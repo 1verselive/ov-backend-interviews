@@ -1,0 +1,5 @@
+{
+  "Question": "Remove these key value pairs and create a response required to populate the screen as shown in assets/home_ques.jpeg",
+  "Additional-Info": "If your solution has multiple API's, please design multiple JSON response",
+  "Required": "Please mention & explain with your response, your DB choices for this."
+}
